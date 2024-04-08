@@ -27,7 +27,8 @@ This repository includes functions for the following text preprocessing methods:
 * Stemming & Lemmatization: Reduce words to their base form (stem) or their dictionary form (lemma) for improved consistency.
 
 ## Implementation details:
-The code utilizes libraries like re (regular expressions) and nltk (Natural Language Toolkit) for various functionalities. Refer to the code comments and docstrings for specific implementation details.
+* The code utilizes libraries like re (regular expressions) and nltk (Natural Language Toolkit) for various functionalities. Refer to the code comments and docstrings for specific implementation details.
+* Dataset : https://colab.research.google.com/corgiredirector?site=https%3A%2F%2Fwww.kaggle.com%2Flakshmi25npathi%2Fimdb-dataset-of-50k-movie-reviews
 
 ## Getting Started:
 * Clone this repository: git clone https://siddharth-karale/Text-Preprocessing-in-NLP.git
